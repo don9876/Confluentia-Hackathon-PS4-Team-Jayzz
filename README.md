@@ -8,8 +8,8 @@ Here's a look at the dashboard in action:
 
 | Dashboard View 1 | Dashboard View 2 |
 | :----------------: | :----------------: |
-| ![Screenshot 1](https://github.com/don9876/Confluentia-Hackathon-PS4-Team-Jayzz/blob/5e29303bd708049042df4e96e310ce1f15b1a90c/LiveApp(1).png) | ![Screenshot 2](https://github.com/your-username/your-repo-name/blob/main/screenshot2.png?raw=true) |
-*(**Note:** Replace the placeholder URLs above with direct links to your screenshots. For GitHub, use the `?raw=true` suffix.)*
+| ![Screenshot 1](https://github.com/don9876/Confluentia-Hackathon-PS4-Team-Jayzz/blob/5e29303bd708049042df4e96e310ce1f15b1a90c/LiveApp(1).png) | ![Screenshot 2](https://github.com/don9876/Confluentia-Hackathon-PS4-Team-Jayzz/blob/f41e2cb8387e2338d0b0ad7404f8616183a64297/LiveApp(2).png) |
+
 
 ---
 ## ✨ Features
