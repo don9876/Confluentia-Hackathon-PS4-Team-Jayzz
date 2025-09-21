@@ -105,7 +105,3 @@ Priya | 00:00:15 --> It's going well, but the financial analysis is tricky. I'm 
 Vishal | 00:00:19 --> I can help with that. The key is to focus on the cash flow projections first.
 ```
 
----
-## 📜 License
-
-This project is licensed under the MIT License.
