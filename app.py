@@ -17,7 +17,7 @@ import re
 # =========================
 # 3. Configure Gemini
 # =========================
-genai.configure(api_key="AIzaSyAPn0KMaJbkKOQ7BXGuFOoV-vSYc_Qcuy0")  # 🔑 Replace with your Gemini API key
+genai.configure(api_key="YOUR_API_KEY")  # 🔑 Replace with your Gemini API key
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # =========================
